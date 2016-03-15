@@ -1,3 +1,8 @@
 my test resume
 well, now i need additional lines for 
 my test resume!!
+I have worked at:
+Bell Laboratories
+Computer Sciences Corporation
+WEstern Electric
+Cap Gemini
