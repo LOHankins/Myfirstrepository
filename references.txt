@@ -3,3 +3,6 @@ Clark Kent
 Neil deGrasse Tyson
 Bruce Lee
 Barack Obama
+Usain Bolt
+Adam Bray
+Linus Torvaldt
